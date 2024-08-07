@@ -6,7 +6,7 @@ My name is Erhan
 React Developer || Front-End Developer || Software Developer
 ------------------------------------------------------------
 
-I've been learning to code for 2 years after switching careers.I started with HTML and CSS but have really found a passion for React Development
+I've been working on the sector for years then decided to swicth to software side.I started with HTML and CSS but have really found a passion for React Development.
 
 * 🌍  I'm based in the United States
 * 🧠  I'm learning Java Script and React and always open to learn more things about software
@@ -29,4 +29,4 @@ I've been learning to code for 2 years after switching careers.I started with HT
 <a href="https://github.com/arryerhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arryerhan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<div width="100%" align="center"></div><br /><br /><br />
+<div width="100%" align="center"></div><br />
