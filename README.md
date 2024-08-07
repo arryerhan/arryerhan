@@ -33,10 +33,5 @@ I've been learning to code for 5 years after switching careers.I started with HT
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />## Hello World 👋
-
-I'm Erhan
-
-- 🌱 I’m currently learning Java Script,React
-- 📫 How to reach me: https://github.com/arryerhan
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
