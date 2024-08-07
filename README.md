@@ -6,7 +6,7 @@ My name is Erhan
 React Developer || Front-End Developer || Software Developer
 ------------------------------------------------------------
 
-I've been learning to code for 5 years after switching careers.I started with HTML and CSS but have really found a passion for React Development
+I've been learning to code for 2 years after switching careers.I started with HTML and CSS but have really found a passion for React Development
 
 * 🌍  I'm based in the United States
 * 🧠  I'm learning Java Script and React and always open to learn more things about software
