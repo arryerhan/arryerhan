@@ -3,7 +3,7 @@ Hi 👋
 My name is Erhan 
 =============================
 
-React Developer || Front-End Developer || Software Developer
+React Developer || Full Stack Developer || Software Developer
 ------------------------------------------------------------
 
 I've been working on the sector for years then decided to swicth to software side.I started with HTML and CSS but have really found a passion for React Development.
